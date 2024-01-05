@@ -1,7 +1,7 @@
 from looney import Product
 from looney_report import generate_products, ADJECTIVES, NOUNS
 
-111
+
 def test_default_product_price():
     """Test product default price is 10"""
 
