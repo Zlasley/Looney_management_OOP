@@ -3,7 +3,7 @@ from looney import Product
 
 ADJECTIVES = ['Awesome', 'Shiny', 'Impressive', 'Portable', 'Improved']
 NOUNS = ['Anvil', 'Catapult', 'Disguise', 'Mousetrap', '???']
-
+1
 
 def generate_products(num_products=30):
     """Creating a list of 30 different products"""
