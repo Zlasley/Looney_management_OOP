@@ -1,5 +1,5 @@
 import random
-1
+11
 
 class Product:
     """Class attributes"""
