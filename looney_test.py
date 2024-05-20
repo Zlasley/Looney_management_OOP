@@ -1,4 +1,4 @@
-from looney import Productssss
+from looney import Productsssss
 from looney_report import generate_products, ADJECTIVES, NOUNS
 
 
