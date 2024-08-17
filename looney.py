@@ -15,7 +15,7 @@ class Product:
         """Determines if the Product will be stolen
         based on price divided by weight."""
 
-
+        price_oz = self.price / self.weight
         if price_oz < 0.5:
             return "Not so stealable..."
         elif 1 > price_oz >= 0.5:
