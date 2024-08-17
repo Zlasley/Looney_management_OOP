@@ -28,12 +28,7 @@ class Product:
         flammability times weight."""
 
         combust = self.flammability * self.weight
-        if combust < 10:
-            return "...fizzle"
-        elif 50 > combust >= 10:
-            return "...boom!"
-        else:
-            return "...BABOOM!!"
+
 
 
 class BoxingGlove(Product):
