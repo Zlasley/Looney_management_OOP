@@ -18,7 +18,7 @@ class Product:
         price_oz = self.price / self.weight
         if price_oz < 0.5:
             return "Not so stealable..."
-        elif 1 > price_oz >= 0.3:
+        elif 1 > price_oz >= 0.5:
             return "kinda stealable."
         else:
             return "Very stealable!"
