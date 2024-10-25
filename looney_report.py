@@ -1,4 +1,4 @@
-import random1
+import random11
 from looney import Product
 
 ADJECTIVES = ['Awesome', 'Shiny', 'Impressive', 'Portable', 'Improved']
